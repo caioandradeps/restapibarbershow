@@ -1,0 +1,23 @@
+{
+  "name": "restapibarbershow",
+  "version": "1.0.0",
+  "description": "restapibarbershow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caioandradeps/restapibarbershow.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caioandradeps/restapibarbershow/issues"
+  },
+  "homepage": "https://github.com/caioandradeps/restapibarbershow#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
