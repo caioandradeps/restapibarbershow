@@ -1,0 +1,24 @@
+{
+    "users": [
+        {
+       "id": 1,
+       "nome": "José Freitas",
+       "email": "jose.freitas@gmail.com"
+        }
+    ],
+
+    "Barbeiros": [
+    {
+       "id": 1,
+       "nome": "Barbearia do Recife",
+       "local": "Recife",
+       "bairro": "Boa Vista"
+     },
+     {
+        "id": 2,
+        "nome": "Camará Barber",
+        "local": "Camaragibe",
+        "bairro": "Céu Azul"
+      }
+   ]
+ }
